@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/Zahira Alves/Desktop/ARREGLOS UML/tp4/tp4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Zahira Alves/Desktop/ARREGLOS UML/tp4/tp4/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tp4 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'tp4 1.0-SNAPSHOT API'
+irrazabal_elias.tp4
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\src\main\java = 1760757053905
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\allclasses-index.html = 1761012173579
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\allpackages-index.html = 1761012173588
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\element-list = 1761012173242
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\help-doc.html = 1761012173700
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\index-all.html = 1761012173671
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\index.html = 1761012173690
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\member-search-index.js = 1761012173604
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\module-search-index.js = 1761012173591
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\overview-tree.html = 1761012173537
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\package-search-index.js = 1761012173597
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\search.html = 1761012173684
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\serialized-form.html = 1761012173388
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\tag-search-index.js = 1761012173608
+C:\Users\Zahira Alves\Desktop\ARREGLOS UML\tp4\tp4\target\reports\apidocs\type-search-index.js = 1761012173600
